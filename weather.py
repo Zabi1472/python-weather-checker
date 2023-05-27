@@ -1,5 +1,4 @@
 import requests
-import json
 
 API_URL = "https://api.weatherbit.io/v2.0/current"
 API_KEY = "17743af575354951a0641940bd0fd785"
